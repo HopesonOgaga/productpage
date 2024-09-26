@@ -1,5 +1,10 @@
 import React from "react";
+import Home from "./components/home";
 
 export default function App() {
-  return <div className="bg-red-100 text-red-400">testing</div>;
+  return (
+    <div className="">
+      <Home></Home>
+    </div>
+  );
 }
