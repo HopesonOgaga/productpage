@@ -3,7 +3,7 @@ import Home from "./components/home";
 
 export default function App() {
   return (
-    <div className="">
+    <div className="pl-8 pr-8">
       <Home></Home>
     </div>
   );
